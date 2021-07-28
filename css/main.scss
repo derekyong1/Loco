@@ -38,3 +38,11 @@ section {
     }
 }
 
+.custom-p {
+    opacity:0;
+    transition: opacity 6s;
+}
+
+.scroll-class {
+    opacity: 1;
+}

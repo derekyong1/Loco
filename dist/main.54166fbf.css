@@ -31,4 +31,13 @@ section:last-child {
   color: white;
 }
 
+.custom-p {
+  opacity: 0;
+  transition: opacity 6s;
+}
+
+.scroll-class {
+  opacity: 1;
+}
+
 /*# sourceMappingURL=/main.54166fbf.css.map */
