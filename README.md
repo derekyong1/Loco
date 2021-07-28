@@ -1,2 +1,2 @@
-# loco
-Locomotive scroll website. Implemented using Parcel.
+# Loco
+This website uses Locomotive scroll. Implemented with parcel. 
